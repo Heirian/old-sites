@@ -168,3 +168,9 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.oval {
+	border-radius: 50%;
+	border-style: groove;
+	border-color: black;
+}
